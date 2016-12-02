@@ -46,7 +46,7 @@ it's like we create new pointer and then assign it to a veriable memory address 
 * cout<< x ;  //print 8
 * cout<< *i ; //print 8
 * any changes on *i it on the value of x .
-* any changes on the pointer value i (not *i) it makes the pointer points to another variable. because i containt the memory address of x.
+* any changes on the pointer value i (not *i) it makes the pointer points to another variable. because i contents the memory address of x.
 passing by pointers effects on the passed variable value after calling the function because the operation done on the same variable x.
 the pointer in the function i it value has the memory address of x.
 the pointer has another memory address we can get it by &i;
